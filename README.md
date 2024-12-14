@@ -1,2 +1,0 @@
-# Data-Processing-using-Dataflow-and-BigQuery-on-Google-Cloud
- Designed and implemented an end-to-end ETL pipeline on Google Cloud Platform. The solution ingests raw data from Cloud Storage, processes it in real-time using Dataflow, and stores the results in BigQuery for advanced analytics and visualization. The project demonstrates scalable, serverless architecture and includes detailed documentation for replication.

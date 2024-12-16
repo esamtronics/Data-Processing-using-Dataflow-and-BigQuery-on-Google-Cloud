@@ -1,5 +1,5 @@
 # Data Processing using Dataflow and BigQuery on Google Cloud
-> **This project demonstrates an ETL batach pipeline using GCP services, Cloud Storage for data storage, Dataflow for data processing, and BigQuery as sink for the results. The pipeline ingests data from a publicly available dataset, processes it using Dataflow, and loads it into BigQuery for further analysis.**
+> **This project demonstrates an ETL batch pipeline using GCP services, Cloud Storage for data storage, Dataflow for data processing, and BigQuery as a sink for the results. The pipeline ingests data from a publicly available dataset, processes it using Dataflow, and loads it into BigQuery for further analysis.**
 
 <p align="center">
 <img width="800" src="https://github.com/user-attachments/assets/4ffd64d9-75f1-4542-a8fa-ccf16db4e560" />
